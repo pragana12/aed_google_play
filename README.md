@@ -75,7 +75,7 @@ Certifique-se de ter o arquivo googleplaystore.csv na pasta raiz do script.
 ```
 
 
-## 📫 Contribuindo para data_science_circo
+## 📫 Contribuindo para o projeto
 
 Para contribuir com este projeto, siga estas etapas:
 
