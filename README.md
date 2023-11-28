@@ -7,7 +7,7 @@
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/pragana12/aed_google_play?style=for-the-badge)
 
 
-> Este projeto realiza uma análise detalhada do conjunto de dados da Google Play Store, fornecendo insights valiosos sobre a diversidade de aplicativos disponíveis nesta plataforma global. A Google Play Store abriga uma vasta gama de aplicativos, desde ferramentas práticas até jogos envolventes. Através deste estudo, buscaremos compreender padrões de popularidade, preferências dos usuários e fatores que impactam o sucesso de um aplicativo. Do número de downloads à distribuição de categorias, esta análise oferecerá uma visão abrangente do ecossistema de aplicativos móveis.
+> Este projeto realiza uma análise detalhada do conjunto de dados da Google Play Store, fornecendo insights valiosos sobre a diversidade de aplicativos disponíveis nesta plataforma. O Google Play Store abriga uma vasta gama de aplicativos, desde ferramentas práticas até jogos. Através deste estudo, busco compreender padrões de popularidade, preferências dos usuários e fatores que impactam o sucesso de um aplicativo. Do número de downloads à distribuição de categorias, esta análise oferecerá uma visão abrangente do ecossistema de aplicativos móveis.
 
 
 ### Ajustes e melhorias
